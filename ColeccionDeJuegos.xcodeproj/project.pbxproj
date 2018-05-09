@@ -13,6 +13,7 @@
 		CDCC0125209D3F4000DA881A /* ColeccionDeJuegos.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = CDCC0123209D3F4000DA881A /* ColeccionDeJuegos.xcdatamodeld */; };
 		CDCC0127209D3F4000DA881A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CDCC0126209D3F4000DA881A /* Assets.xcassets */; };
 		CDCC012A209D3F4000DA881A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CDCC0128209D3F4000DA881A /* LaunchScreen.storyboard */; };
+		CDCC013220A23B3500DA881A /* ImageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDCC013120A23B3500DA881A /* ImageViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		CDCC0126209D3F4000DA881A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CDCC0129209D3F4000DA881A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CDCC012B209D3F4000DA881A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CDCC013120A23B3500DA881A /* ImageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				CDCC0128209D3F4000DA881A /* LaunchScreen.storyboard */,
 				CDCC012B209D3F4000DA881A /* Info.plist */,
 				CDCC0123209D3F4000DA881A /* ColeccionDeJuegos.xcdatamodeld */,
+				CDCC013120A23B3500DA881A /* ImageViewController.swift */,
 			);
 			path = ColeccionDeJuegos;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 			files = (
 				CDCC011F209D3F4000DA881A /* ViewController.swift in Sources */,
 				CDCC011D209D3F4000DA881A /* AppDelegate.swift in Sources */,
+				CDCC013220A23B3500DA881A /* ImageViewController.swift in Sources */,
 				CDCC0125209D3F4000DA881A /* ColeccionDeJuegos.xcdatamodeld in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
